@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e30047</color>
+    <color name="colorPrimaryDark">#e30047</color>
+    <color name="colorAccent">#e30047</color>
+
+    <color name="primary">#e30047</color>
+
+
+    <color name="OldLace">#FDF5E6</color>
+    <color name="Wheat">#F5DEB3</color>
+    <color name="White">#FFFFFF</color>
+
+
+    <color name="bgTitleRight">#ffffff</color>
+    <color name="bgContent">#ffffff</color>
+    <color name="contentDividerLine">#e0e0e0</color>
+    <color name="titleBadgeText">#adafb1</color>
+
+</resources>

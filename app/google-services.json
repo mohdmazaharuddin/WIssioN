@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630999172357",
+    "firebase_url": "https://wissiontestdatabase.firebaseio.com",
+    "project_id": "wissiontestdatabase",
+    "storage_bucket": "wissiontestdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630999172357:android:22dc81f30e1294d8",
+        "android_client_info": {
+          "package_name": "com.example.hp.golechhatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630999172357-t6drjb75pjucqhaqmuunfmidehvpmqoh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.golechhatest",
+            "certificate_hash": "8753476d2e0cebc5d2aa5b8a48e9a43a40c3ab18"
+          }
+        },
+        {
+          "client_id": "630999172357-ith89jma7dr93tpn3kp21f8eim8ms0r9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlydDxJqpcnQceAHpOPfUQYGAK3-vnvFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630999172357-ith89jma7dr93tpn3kp21f8eim8ms0r9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

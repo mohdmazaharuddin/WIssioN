@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">WIssioN</string>
+
+    <array name="dashboard_navigation">
+        <item>Home</item>
+        <item>Edit Profile</item>
+        <item>Log Out</item>
+    </array>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">V9HZY5IMljL4gTB2c1fNDynO02n7L4Faly3VaRQL</string>
+    <string name="back4app_client_key">n78fHUOi4hhOz1XIy7uMFIaNgr1sezyhBqgWJsNI</string>
+
+    <string name="caption">Caption</string>
+    <string name="likes">Likes</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="comments">Comments</string>
+
+    <string name="recent_comment">No Comments Yet</string>
+    <string name="company_caption">A Social Platform to Connect Artists and Fans</string>
+    <string name="already_like">You are already liked</string>
+
+
+    // youtube_api_key : AIzaSyBFaH9N6AgXhaDcbOJDmcfykWsQiU-04Bw
+</resources>
